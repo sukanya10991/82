@@ -10,11 +10,11 @@ h1  {
 }
 
 #rose {
-    border-width:10px;
+    border-width: 0.5cm;
     background-color: rgb(206, 105, 206);
     border-style:ridge;
     border-color:rgb(9, 212, 185);
-    padding:100px;
+    padding:1cm;
  }
 
 span {
